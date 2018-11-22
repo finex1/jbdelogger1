@@ -26,7 +26,7 @@
                     "foundSignupDate": ""
                 }
             ],
-            "url": "http://localhost/test3/execute"
+            "url": "https://jbdelogger1.herokuapp.com/execute"
         }
     },
     "configurationArguments": {
@@ -34,7 +34,7 @@
            "url": "URI/for/your/activity/save"
        },
        "publish": {
-           "url": "URI/for/your/activity/publish"
+           "url": "https://jbdelogger1.herokuapp.com/"
        },
        "validate": {
            "url": "URI/for/your/activity/validate"
